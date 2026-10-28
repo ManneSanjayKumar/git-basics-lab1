@@ -1,4 +1,5 @@
-hello from main branch
+
+Hello from main and feature branch
 git basics started
 Git Basics Completed
 one more update
